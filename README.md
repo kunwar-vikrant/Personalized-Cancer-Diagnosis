@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://www.wcrf.org/sites/default/files/TER-Recommendation-2018-DUAL-WEB.jpg
-">
+  <img width="460" height="300" src="https://www.wcrf.org/sites/default/files/TER-Recommendation-2018-DUAL-WEB.jpg">
 </p>
 
 <h1>1.1 Business Problem</h1>
