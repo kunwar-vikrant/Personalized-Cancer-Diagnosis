@@ -1,4 +1,4 @@
-# <p align="center">Personalize Cancer Diagnosis</p>
+# <p align="center">Personalized Cancer Diagnosis</p>
 
 
 <p align="center">
