@@ -1,3 +1,11 @@
+# <p align="center">Personalize Cancer Diagnosis</p>
+
+
+<p align="center">
+  <img width="460" height="300" src="https://www.wcrf.org/sites/default/files/TER-Recommendation-2018-DUAL-WEB.jpg
+">
+</p>
+
 <h1>1.1 Business Problem</h1>
 <p> Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/ </p>
 <p> Data: Memorial Sloan Kettering Cancer Center (MSKCC)</p>
