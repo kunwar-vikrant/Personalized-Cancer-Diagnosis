@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://www.wcrf.org/sites/default/files/TER-Recommendation-2018-DUAL-WEB.jpg">
+  <img width="460" height="300" src="http://newsroom.gehealthcare.com/wp-content/uploads/2017/08/Main_Day1_Healthcare_MOV8_Patient_v06.gif">
 </p>
 
 <h1>1.1 Business Problem</h1>
